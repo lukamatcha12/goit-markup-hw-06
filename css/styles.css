@@ -947,7 +947,7 @@ nav li a:first-child:focus {
 }
 
 /* hw6 modal window */
-.hw6-modal-window {
+.hw-modal-window {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -973,6 +973,11 @@ nav li a:first-child:focus {
 .comment-modal {
     margin-bottom: 16px;
 }
+
+.div-label{
+    position: relative;
+}
+
 
 .checkbox {
     margin-bottom: 24px;
