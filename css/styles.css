@@ -1073,7 +1073,7 @@ nav li a:first-child:focus {
     fill: transparent;
 }
 
-  .label-terms {
+  .label-term {
       display: block;
       font-size: 12px;
       line-height: 1.17;
