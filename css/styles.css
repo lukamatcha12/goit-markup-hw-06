@@ -923,7 +923,7 @@ nav li a:first-child:focus {
     color: #FFFFFF;
 }
 
- {
+ .hw-footer-subscribe {
     min-width: 165px;
     height: 40px;
     display: flex;
