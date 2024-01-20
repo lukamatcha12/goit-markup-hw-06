@@ -1085,3 +1085,8 @@ nav li a:first-child:focus {
         .PrivacyPolicy {
             color: var(--iris);
         }
+    
+    .f-form {
+    display: flex;
+    gap: 24px;
+    }
